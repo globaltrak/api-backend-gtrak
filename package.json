@@ -1,0 +1,15 @@
+{
+  "name": "api-backend-gtrak",
+  "version": "1.0.0",
+  "description": "Um projeto backend em nodejs e fastify para api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/globaltrak"
+  },
+  "author": "https://github.com/ofelipemedeiros",
+  "license": "ISC"
+}
