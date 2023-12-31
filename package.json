@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Um projeto backend em nodejs e fastify para api",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,5 +12,8 @@
     "url": "https://github.com/globaltrak"
   },
   "author": "https://github.com/ofelipemedeiros",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^4.25.2"
+  }
 }
